@@ -3,10 +3,10 @@ import MySQLdb
 import simplejson as json
 
 
-MYSQL_HOST = "127.0.0.1"
+MYSQL_HOST = "127.0.X.X"
 MYSQL_PORT = 30000
 MYSQL_USER = "latona"
-MYSQL_PASSWORD = "latonalatona"
+MYSQL_PASSWORD = "XXXXXXXX"
 
 class UpdateDeviceStateToDB():
     def __init__(self):
